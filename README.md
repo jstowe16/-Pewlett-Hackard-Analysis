@@ -9,7 +9,7 @@ Using the databases provided and pgAdmin4 and SQL queries, the analysis was comp
 ### Retirement Eligibility
 Based on the analysis, there are 41,380 employees eligible for retirement based on the birth date filter. A summary is provided in /Data/ret_info.csv, and a snippet of that table is in the image below.
 
-![image](/resources/Ret_info.png)
+![image](/resources/Ret_Info.png)
 
 ### Eligibility by Title
 The retirement eligibility by title is summarized in /Data/retiring_titles.csv as well as in the figure below.
